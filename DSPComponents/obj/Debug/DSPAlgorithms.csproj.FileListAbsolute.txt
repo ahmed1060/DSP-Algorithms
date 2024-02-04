@@ -1,0 +1,12 @@
+E:\5th Semester\Digital Signal Processing\Lab 1\Package and Task\DSPToolbox\DSPComponents\bin\Debug\DSPComponents.dll
+E:\5th Semester\Digital Signal Processing\Lab 1\Package and Task\DSPToolbox\DSPComponents\bin\Debug\DSPComponents.pdb
+E:\5th Semester\Digital Signal Processing\Lab 1\Package and Task\DSPToolbox\DSPComponents\obj\Debug\DSPAlgorithms.csproj.AssemblyReference.cache
+E:\5th Semester\Digital Signal Processing\Lab 1\Package and Task\DSPToolbox\DSPComponents\obj\Debug\DSPAlgorithms.csproj.CoreCompileInputs.cache
+E:\5th Semester\Digital Signal Processing\Lab 1\Package and Task\DSPToolbox\DSPComponents\obj\Debug\DSPComponents.dll
+E:\5th Semester\Digital Signal Processing\Lab 1\Package and Task\DSPToolbox\DSPComponents\obj\Debug\DSPComponents.pdb
+E:\5th Semester\Digital Signal Processing\Labs\DSPToolbox\DSPComponents\bin\Debug\DSPComponents.dll
+E:\5th Semester\Digital Signal Processing\Labs\DSPToolbox\DSPComponents\bin\Debug\DSPComponents.pdb
+E:\5th Semester\Digital Signal Processing\Labs\DSPToolbox\DSPComponents\obj\Debug\DSPAlgorithms.csproj.AssemblyReference.cache
+E:\5th Semester\Digital Signal Processing\Labs\DSPToolbox\DSPComponents\obj\Debug\DSPAlgorithms.csproj.CoreCompileInputs.cache
+E:\5th Semester\Digital Signal Processing\Labs\DSPToolbox\DSPComponents\obj\Debug\DSPComponents.dll
+E:\5th Semester\Digital Signal Processing\Labs\DSPToolbox\DSPComponents\obj\Debug\DSPComponents.pdb
